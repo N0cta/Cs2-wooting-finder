@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-CS2 Wooting Detector - Version EXE tout-en-un
-Un seul lancement suffit : Installation automatique + Surveillance permanente
-"""
-
 import time
 import psutil
 import tkinter as tk
